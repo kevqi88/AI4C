@@ -37,7 +37,8 @@ The technical paradox is:
 
 This contradiction is magnified in business scenarios. Corporate data demands strict adherence to indicator definitions, multi-dimensional analysis, and granular traceability—requirements current AI systems struggle to fulfill. For instance, generating financial reports or operational analyses requires. Thus:
 
-**While AI excels in computational power, but “simple” business calculations often determine success or failure**  
+**While AI excels in computational power,**
+**but “simple” business calculations often determine success or failure**  
 
 This limitation defines our core challenge in automating corporate consulting. Our solution? 
 
